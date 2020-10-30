@@ -7,4 +7,6 @@ func main()
  fmt.Println("SO Happy about go")
  var x int
  x=10
+ var y int
+ y=20
  }
